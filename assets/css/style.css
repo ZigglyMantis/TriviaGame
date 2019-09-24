@@ -1,0 +1,23 @@
+#title {
+    border: 5px;
+    border-color: blue;
+    padding: 20px;
+    padding-top: 150px;
+}
+
+#timeLimit {
+    padding: 15px;
+    padding-right: 5px;
+}
+#question {
+    padding: 20px;
+}
+#choiceOne {
+    padding: 10px;
+}
+#choiceTwo {
+    padding: 10px;
+}
+#choiceThree {
+    padding: 10px;
+}
