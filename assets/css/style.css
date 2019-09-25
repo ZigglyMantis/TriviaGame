@@ -4,7 +4,9 @@
     padding: 20px;
     padding-top: 150px;
 }
-
+body {
+    background: rgb(136, 111, 111);
+}
 #timeLimit {
     padding: 15px;
     padding-right: 5px;
@@ -20,4 +22,10 @@
 }
 #choiceThree {
     padding: 10px;
+}
+
+button {
+    color: burlywood;
+    background-color: brown;
+    border-color: rgb(204, 52, 52)
 }
